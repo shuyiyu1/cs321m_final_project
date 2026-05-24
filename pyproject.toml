@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "metric-aging"
+version = "0.1.0"
+description = "Reproducible code for metric aging and reward hacking experiments."
+requires-python = ">=3.10"
+authors = [{name = "CS231M Final Project"}]
+
+[tool.setuptools.packages.find]
+where = ["src"]
