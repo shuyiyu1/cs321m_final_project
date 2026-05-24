@@ -1,4 +1,4 @@
-# Metric Aging Code Submission
+# Final Project Code Submission
 
 This repository contains **only the reproducible code** used to generate the figures and tables for the CS231M final project on metric aging, reward hacking, and optimal metric replacement. It intentionally excludes the manuscript PDF, manuscript source, and LaTeX files.
 
