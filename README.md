@@ -117,7 +117,3 @@ params = LearningParams(p=0.08, q=0.08, delta=0.95, gamma=0.90)
 result = optimal_replacement_age(params, k_max=1000)
 print(result.k_star, result.value)
 ```
-
-## Notes for graders
-
-The code is intentionally small and modular. Because the project is theory-driven, the computational component consists of deterministic numerical evaluation of the derived closed-form equations rather than training a machine-learning model.
